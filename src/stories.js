@@ -5,8 +5,6 @@ export const data = [
     images: [
       { url: 'images/hk_withFriends/3.jpg' },
       { url: 'images/hk_withFriends/4.jpg' },
-      { url: 'images/hk_withFriends/5.jpg' },
-      { url: 'images/hk_withFriends/6.jpg' },
       { url: 'images/hk_withFriends/7.jpg' },
       { url: 'images/hk_withFriends/8.jpg' },
       { url: 'images/hk_withFriends/9.jpg' },
@@ -15,7 +13,6 @@ export const data = [
       { url: 'images/hk_withFriends/14.jpg' },
       { url: 'images/hk_withFriends/15.jpg' },
       { url: 'images/hk_withFriends/16.jpg' },
-      { url: 'images/hk_withFriends/17.jpg' },
       { url: 'images/hk_withFriends/18.jpg' },
       { url: 'images/hk_withFriends/19.jpg' },
       { url: 'images/hk_withFriends/20.jpg' },
@@ -27,10 +24,6 @@ export const data = [
       { url: 'images/hk_withFriends/26.jpg' },
       { url: 'images/hk_withFriends/27.jpg' },
       { url: 'images/hk_withFriends/28.jpg' },
-      { url: 'images/hk_withFriends/1.jpg' },
-      { url: 'images/hk_withFriends/2.jpg' },
-      { url: 'images/hk_withFriends/10.jpg' },
-      { url: 'images/hk_withFriends/11.jpg' },
     ],
   },
 ]
